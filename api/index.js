@@ -631,6 +631,8 @@ export async function GET(request) {
 		{ domains: ["uploadhaven.com"], handler: "uploadhaven" },
 		{ domains: ["uploadrar.com"], handler: "uploadrar" },
 		{ domains: ["videza.co"], handler: "videza" },
+		{ domains: ["vidmonstr.com"], handler: "videq" },
+		{ domains: ["vidwara.online"], handler: "vidwara" },
 		{
 			domains: [
 				"vidara.to",
