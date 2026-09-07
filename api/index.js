@@ -569,6 +569,7 @@ export async function GET(request) {
 		{ domains: ["shrdsk.me"], handler: "shrdsk" },
 		{
 			domains: [
+				"adhoy.de",
 				"siicedriva.com",
 				"slicedrive.com",
 				"slicidrive.com",
