@@ -636,6 +636,7 @@ export async function GET(request) {
 				"vidara.to",
 				"vidara.so",
 				"vidara.cc",
+				"vidvara.cc",
 				"weekendletters.shop",
 				"weekendletters.cc",
 				"uidara.pro",
