@@ -29,6 +29,7 @@ export async function GET(request) {
 		{ domains: ["1fichier.com"], handler: "fichier" },
 		{ domains: ["0807.st"], handler: "zeroeightseven" },
 		{ domains: ["123av.com"], handler: "javplayer" },
+		{ domains: ["javsin.net"], handler: "javsin" },
 		{ domains: ["akirabox.com", "akirabox.to"], handler: "akirabox" },
 		{ domains: ["akmfiles.com", "akmfls.xyz"], handler: "akmfiles" },
 		{ domains: ["androiddatahost.com"], handler: "androiddatahost" },
