@@ -420,7 +420,12 @@ export async function GET(request) {
 		{ domains: ["dropbox.com"], handler: "dropbox" },
 		{ domains: ["easyupload.io"], handler: "easyupload" },
 		{
-			domains: ["fileditch.com", "fileditchalbums.st", "fileditchfiles.me"],
+			domains: [
+				"fileditch.com",
+				"fileditchalbums.st",
+				"fileditchfiles.me",
+				"theditch.st",
+			],
 			handler: "fileditch",
 		},
 		{
