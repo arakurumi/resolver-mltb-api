@@ -5,7 +5,7 @@
 	},
 	"description": "Domain resolver for Mirror Leech Telegram Bot",
 	"devDependencies": {
-		"vercel": "^62.2.0"
+		"vercel": "^64.7.0"
 	},
 	"homepage": "https://github.com/arakurumi/resolver-mltb#readme",
 	"license": "ISC",

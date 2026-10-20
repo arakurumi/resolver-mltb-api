@@ -465,9 +465,6 @@ export async function GET(request) {
 			domains: [
 				"cdn.ctrlfilms.eu.org",
 				"cloud-oyen.eu.org",
-				"database.s3cr3t.workers.dev",
-				"index.3nk.workers.dev",
-				"seikel.web.id",
 				"share.eqrtz.workers.dev",
 				"sineflix.ultradrivecloud.workers.dev",
 				"somestuff.web.id",
@@ -572,6 +569,7 @@ export async function GET(request) {
 		{ domains: ["rapidgator.net"], handler: "rapidgator" },
 		{ domains: ["rootz.so"], handler: "rootz" },
 		{ domains: ["romsget.io"], handler: "romsget" },
+		{ domains: ["seikel.web.id"], handler: "seikel" },
 		{ domains: ["send.cm"], handler: "send" },
 		{ domains: ["sharer"], handler: "sharer" },
 		{ domains: ["sfile.mobi"], handler: "sfile" },
