@@ -569,7 +569,6 @@ export async function GET(request) {
 		{ domains: ["rapidgator.net"], handler: "rapidgator" },
 		{ domains: ["rootz.so"], handler: "rootz" },
 		{ domains: ["romsget.io"], handler: "romsget" },
-		{ domains: ["seikel.web.id"], handler: "seikel" },
 		{ domains: ["send.cm"], handler: "send" },
 		{ domains: ["sharer"], handler: "sharer" },
 		{ domains: ["sfile.mobi"], handler: "sfile" },
