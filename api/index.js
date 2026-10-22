@@ -681,6 +681,7 @@ export async function GET(request) {
 				"doods.at",
 				"hek.al",
 				"imgd.cx",
+				"jwplyr.com",
 				"lixvy.de",
 				"mp4.bio",
 				"mp4cash.com",
