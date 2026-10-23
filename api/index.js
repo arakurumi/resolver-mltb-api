@@ -638,7 +638,10 @@ export async function GET(request) {
 		{ domains: ["uploadrar.com"], handler: "uploadrar" },
 		{ domains: ["videza.co"], handler: "videza" },
 		{ domains: ["vidmonstr.com"], handler: "videq" },
-		{ domains: ["tribunvideo.co", "vidwara.online"], handler: "vidwara" },
+		{
+			domains: ["tribunvideo.co", "viderea.cc", "vidwara.online"],
+			handler: "vidwara",
+		},
 		{
 			domains: [
 				"vidara.to",
